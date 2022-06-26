@@ -42,3 +42,18 @@ git add .
 git commit -m"EXERCICE2"
 git push origin main 
 ## FIN D'EXERCICE
+
+EXERCICE 3:
+
+## création du fichier docker-compose.yml
+
+Networks:
+lan_network:
+driver: bridge
+
+services:
+Tomcat9:
+hostname: dyhia
+image: 14101994/tomcat:v1
+ports:
+- 20900:8080
