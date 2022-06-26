@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ad4d16f-b1a1-4ec8-9b2c-60bc4117bc2a" name="VM-EXO2">
+        <fileTransfer accessType="SFTP" host="137.74.61.113" port="22" sshConfigId="461178cb-78e5-4969-a16a-811c8055dda8" sshConfig="VM-EXO2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
